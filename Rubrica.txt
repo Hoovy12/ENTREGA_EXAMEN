@@ -1,0 +1,22 @@
+PUNTOS IMPLEMENTADOS:
+-Creacion del terrain, texturizado y con vegetacion
+
+-Creacion de 3 Triggers:
+	->Item recolectable
+	->Zona de muerte
+	->Puert que se abre con la condicion de que este muy cerca de la misma
+
+-Iluminacion con 3 tipos de luz y el ciclo de dia/noche
+
+-Creacion de HUD con:
+	->Items recogidos(monedas)
+	->vida del jugador
+	->Texto de tiempo transcurrido(no hay contador)
+
+-2 animaciones en el hud:
+	->La barra de vida se mueve y se expande
+	->Los textos se mueven
+
+-Se han añadido 2 animaciones al ThirdPerson:
+	->Muerte
+	->Baile
